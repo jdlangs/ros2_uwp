@@ -2,103 +2,103 @@ repositories:
   eProsima/Fast-CDR:
     type: git
     url: https://github.com/eProsima/Fast-CDR.git
-    version: v1.0.11
-  eProsima/Fast-RTPS:
+    version: v1.0.17
+  eProsima/Fast-DDS:
     type: git
-    url: https://github.com/ooeygui/Fast-RTPS.git
-    version: eloquent-windows
+    url: https://github.com/jdlangs/Fast-DDS.git
+    version: foxy-windows
   eProsima/foonathan_memory_vendor:
     type: git
     url: https://github.com/eProsima/foonathan_memory_vendor.git
-    version: master
-  micro-ROS/ros_tracing/ros2_tracing:
+    version: v1.0.0
+  ros_tracing/ros2_tracing:
     type: git
-    url: https://gitlab.com/micro-ROS/ros_tracing/ros2_tracing.git
-    version: 0.2.10
+    url: https://gitlab.com/ros-tracing/ros2_tracing.git
+    version: foxy
   ros2/ament_cmake_ros:
     type: git
     url: https://github.com/ros2/ament_cmake_ros.git
-    version: eloquent
+    version: foxy
   ros2/rcpputils:
     type: git
-    url: https://github.com/ooeygui/rcpputils.git
-    version: eloquent
+    url: https://github.com/jdlangs/rcpputils.git
+    version: foxy-uwp
   ros2/rcutils:
     type: git
     url: https://github.com/ros2/rcutils.git
-    version: eloquent
+    version: foxy
   ros2/common_interfaces:
     type: git
     url: https://github.com/ros2/common_interfaces.git
-    version: eloquent
+    version: foxy
   ros2/example_interfaces:
     type: git
     url: https://github.com/ros2/example_interfaces.git
-    version: eloquent
+    version: foxy
   ros2/libyaml_vendor:
     type: git
-    url: https://github.com/theseankelly/libyaml_vendor.git
-    version: eloquent-uwp
+    url: https://github.com/jdlangs/libyaml_vendor.git
+    version: foxy-uwp
   ros2/rcl:
     type: git
     url: https://github.com/ros2/rcl.git
-    version: eloquent
+    version: foxy
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
-    version: eloquent
+    version: foxy
   ros2/rcl_logging:
     type: git
     url: https://github.com/ros2/rcl_logging.git
-    version: eloquent
+    version: foxy
   ros2/rmw:
     type: git
     url: https://github.com/ros2/rmw.git
-    version: eloquent
+    version: foxy
   ros2/rmw_fastrtps:
     type: git
     url: https://github.com/ros2/rmw_fastrtps.git
-    version: eloquent
+    version: foxy
   ros2/rmw_implementation:
     type: git
-    url: https://github.com/ooeygui/rmw_implementation.git
-    version: eloquent
+    url: https://github.com/ros2/rmw_implementation.git
+    version: foxy
   ros2/rosidl:
     type: git
     url: https://github.com/ros2/rosidl.git
-    version: eloquent
+    version: foxy
   ros2/rosidl_dds:
     type: git
     url: https://github.com/ros2/rosidl_dds.git
-    version: eloquent
+    version: foxy
   ros2/rosidl_defaults:
     type: git
     url: https://github.com/ros2/rosidl_defaults.git
-    version: eloquent
+    version: foxy
   ros2/rosidl_typesupport:
     type: git
-    url: https://github.com/theseankelly/rosidl_typesupport.git
-    version: eloquent-uwp
+    url: https://github.com/ros2/rosidl_typesupport.git
+    version: foxy
   ros2/rosidl_typesupport_fastrtps:
     type: git
     url: https://github.com/ros2/rosidl_typesupport_fastrtps.git
-    version: eloquent
+    version: foxy
   ros2/test_interface_files:
     type: git
     url: https://github.com/ros2/test_interface_files.git
-    version: eloquent
+    version: foxy
   ros2/tinydir_vendor:
     type: git
     url: https://github.com/ros2/tinydir_vendor.git
-    version: eloquent
+    version: foxy
   ros2/unique_identifier_msgs:
     type: git
     url: https://github.com/ros2/unique_identifier_msgs.git
-    version: eloquent
+    version: foxy
   ros2/rclcpp:
     type: git
     url: https://github.com/ros2/rclcpp.git
-    version: eloquent
+    version: foxy
   ros2/poco_vendor:
     type: git
     url: https://github.com/ros2/poco_vendor.git
@@ -122,15 +122,15 @@ repositories:
   ros2/geometry2:
     type: git
     url: https://github.com/ros2/geometry2.git
-    version: eloquent
+    version: foxy
   ros2/python_cmake_module:
     type: git
     url: https://github.com/ros2/python_cmake_module.git
-    version: eloquent
+    version: foxy
   ros2/console_bridge_vendor:
     type: git
     url: https://github.com/ros2/console_bridge_vendor.git
-    version: eloquent
+    version: foxy
   ros2/console_bridge:
     type: git
     url: https://github.com/ros/console_bridge.git
@@ -138,13 +138,13 @@ repositories:
   ros2/message_filters:
     type: git
     url: https://github.com/ros2/message_filters.git
-    version: eloquent
+    version: foxy
   ros2/orocos_kinematics_dynamics:
     type: git
     url: https://github.com/ros2/orocos_kinematics_dynamics.git
-    version: eloquent
+    version: foxy
   ros2/eigen3_cmake_module:
     type: git
     url: https://github.com/ros2/eigen3_cmake_module.git
-    version: eloquent
+    version: foxy
   
