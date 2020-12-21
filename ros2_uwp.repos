@@ -107,18 +107,6 @@ repositories:
     type: git
     url: https://github.com/ros2/spdlog_vendor.git
     version: master
-  ros2_dotnet/ros2_dotnet:
-    type: git
-    url: https://github.com/Camelron/ros2_dotnet
-    version: master
-  ros2dotnet/dotnet_cmake_module:
-    type: git
-    url: https://github.com/ros2-dotnet/dotnet_cmake_module.git
-    version: master
-  ros2dotnet/ament_cmake_export_assemblies:
-    type: git
-    url: https://github.com/esteve/ament_cmake_export_assemblies.git
-    version: master
   ros2/geometry2:
     type: git
     url: https://github.com/ros2/geometry2.git
