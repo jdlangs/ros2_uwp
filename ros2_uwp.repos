@@ -11,6 +11,10 @@ repositories:
     type: git
     url: https://github.com/eProsima/foonathan_memory_vendor.git
     version: v1.0.0
+  ros/class_loader:
+    type: git
+    url: https://github.com/ros/class_loader.git
+    version: foxy
   ros_tracing/ros2_tracing:
     type: git
     url: https://gitlab.com/ros-tracing/ros2_tracing.git
@@ -22,11 +26,11 @@ repositories:
   ros2/rcpputils:
     type: git
     url: https://github.com/jdlangs/rcpputils.git
-    version: foxy-uwp
+    version: feature/ext-fs-lib
   ros2/rcutils:
     type: git
-    url: https://github.com/ros2/rcutils.git
-    version: foxy
+    url: https://github.com/jdlangs/rcutils.git
+    version: fix/uwp-build
   ros2/common_interfaces:
     type: git
     url: https://github.com/ros2/common_interfaces.git
@@ -54,6 +58,10 @@ repositories:
   ros2/rmw:
     type: git
     url: https://github.com/ros2/rmw.git
+    version: foxy
+  ros2/rmw_dds_common:
+    type: git
+    url: https://github.com/ros2/rmw_dds_common.git
     version: foxy
   ros2/rmw_fastrtps:
     type: git
@@ -90,15 +98,19 @@ repositories:
   ros2/tinydir_vendor:
     type: git
     url: https://github.com/ros2/tinydir_vendor.git
-    version: foxy
+    version: master
   ros2/unique_identifier_msgs:
     type: git
     url: https://github.com/ros2/unique_identifier_msgs.git
     version: foxy
   ros2/rclcpp:
     type: git
-    url: https://github.com/ros2/rclcpp.git
-    version: foxy
+    url: https://github.com/jdlangs/rclcpp.git
+    version: feature/c++17
+  ros-tooling/libstatistics_collector:
+    type: git
+    url: https://github.com/ros-tooling/libstatistics_collector.git
+    version: foxy-devel
   ros2/poco_vendor:
     type: git
     url: https://github.com/ros2/poco_vendor.git
