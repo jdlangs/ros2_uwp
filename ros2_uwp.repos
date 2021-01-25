@@ -26,11 +26,11 @@ repositories:
   ros2/rcpputils:
     type: git
     url: https://github.com/jdlangs/rcpputils.git
-    version: feature/ext-fs-lib
+    version: foxy-uwp
   ros2/rcutils:
     type: git
     url: https://github.com/jdlangs/rcutils.git
-    version: fix/uwp-build
+    version: foxy-uwp
   ros2/common_interfaces:
     type: git
     url: https://github.com/ros2/common_interfaces.git
@@ -121,8 +121,8 @@ repositories:
     version: master
   ros2/geometry2:
     type: git
-    url: https://github.com/ros2/geometry2.git
-    version: foxy
+    url: https://github.com/jdlangs/geometry2.git
+    version: foxy-python3.9
   ros2/python_cmake_module:
     type: git
     url: https://github.com/ros2/python_cmake_module.git
